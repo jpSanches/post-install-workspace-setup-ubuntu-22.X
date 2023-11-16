@@ -1,2 +1,4 @@
-# Linux-Mint-19.x-PosInstall
-Shell Script de pós instalação do Linux Mint 19.x para utilização pessoal.
+# Overview
+
+Shell script for post installation of an image of ubuntu 22.X for personal use.
+
